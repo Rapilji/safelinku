@@ -1,0 +1,2 @@
+# safelinku
+Auto safelinku
